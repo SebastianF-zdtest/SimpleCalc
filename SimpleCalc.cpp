@@ -1,5 +1,3 @@
-//*************Sebastian Fa³drowicz 150962
-
 #include <iostream>
 #include <math.h>
 #include <iomanip>
@@ -11,12 +9,9 @@ int main()
 {
     float number_1;
     float number_2;
-    int square;
-    int amplified;
     float total = 0;
     char type;
 
-    cout << "*************Sebastian Faldrowicz 150962";
     cout << "\n----\n";
     cout << "\n***********Kalkulator***********\n";
     cout << "\n----\n";
